@@ -1,0 +1,10 @@
+2020-02-25 17:29:35 DEBUG Constructioncost:7 - DEBUG calculating the construction cost required to build the house
+2020-02-25 17:29:35 INFO  Constructioncost:8 - INFO calculating the construction cost required to build the house
+2020-02-25 17:29:35 WARN  Constructioncost:9 - WARN calculating the construction cost required to build the house
+2020-02-25 17:29:35 ERROR Constructioncost:10 - ERROR calculating the construction cost required to build the house
+2020-02-25 17:29:35 FATAL Constructioncost:11 - FATAL calculating the construction cost required to build the house
+2020-02-25 17:29:35 DEBUG Constructioncost:7 - DEBUG calculating the simple and coumpound ineterest
+2020-02-25 17:29:35 INFO  Constructioncost:8 - INFO calculating the simple and coumpound ineterest
+2020-02-25 17:29:35 WARN  Constructioncost:9 - WARN calculating the simple and coumpound ineterest
+2020-02-25 17:29:35 ERROR Constructioncost:10 - ERROR calculating the simple and coumpound ineterest
+2020-02-25 17:29:35 FATAL Constructioncost:11 - FATAL calculating the simple and coumpound ineterest
